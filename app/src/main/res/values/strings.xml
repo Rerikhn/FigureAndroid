@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Figure</string>
+    <string name="edit_text_angle">Angle</string>
+    <string name="edit_text_scale">Scale</string>
+    <string name="button_mirror">Mirror</string>
+    <string name="button_init">Init</string>
+</resources>
