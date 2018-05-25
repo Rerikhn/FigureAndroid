@@ -55,7 +55,7 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback {
     }
 
     /**
-     * Support function to call all default
+     * Support function
      *
      * @param context by application
      */
