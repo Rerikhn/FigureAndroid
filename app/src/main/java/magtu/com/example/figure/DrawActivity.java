@@ -115,6 +115,7 @@ public class DrawActivity extends Activity /*implements View.OnTouchListener*/ {
                 GameView.gameThread.setScy(map(event.getY(),metrics.heightPixels, 0,0.3f,6));*/
                 GameView.gameThread.setStartX(event.getX());
                 GameView.gameThread.setStartY(event.getY());
+                break;
         }
         return true;
     }
